@@ -1,2 +1,2 @@
 # Dashboard
-learning
+learning how to use GitHub
